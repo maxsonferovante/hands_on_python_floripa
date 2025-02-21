@@ -1,3 +1,23 @@
+"""
+Script que implementa um chat interativo com histórico de conversas usando o modelo Llama.
+Este script cria uma interface de chat onde o usuário pode interagir com o modelo de linguagem Llama,
+mantendo o histórico completo da conversa para contextualização das respostas.
+Funcionalidades:
+  - Interface de chat via linha de comando
+  - Streaming das respostas em tempo real
+  - Histórico de mensagens mantido para contexto
+  - Integração com o modelo Llama através da API Ollama
+Dependências:
+  - ollama: Para interação com o modelo de linguagem
+  - models: Módulo local contendo configuração do modelo llama31
+Uso:
+  Execute o script e digite suas mensagens quando solicitado.
+  Para sair, use Ctrl+C.
+Formato das mensagens:
+  As mensagens são armazenadas como dicionários com:
+    - role: 'user' ou 'assistant'
+    - content: conteúdo da mensagem
+"""
 from ollama import chat
 from models import llama31
 messages = [
