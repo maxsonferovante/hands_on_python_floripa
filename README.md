@@ -2,7 +2,7 @@
 
 Este repositório contém os códigos desenvolvidos durante o 1º Hands On da Python Floripa, realizado dia 22 de Fevereiro de 2025.
 
-[1º Hands On LLMs Locais- Rode IA no Seu Computador Sem Custos e com Privacidade.pdf](1ª%20Hands%20On%20LLMs%20Locais-%20Rode%20IA%20no%20Seu%20Computador%20Sem%20Custos%20e%20com%20Privacidade.pdf).
+[1º Hands On LLMs Locais- Rode IA no Seu Computador Sem Custos e com Privacidade.pdf](1HandsOnLLMsLocaisRodeIAnoSeuComputadorSemCustosecomPrivacidade.pdf).
 
 ## 🚀 Como Usar
 
