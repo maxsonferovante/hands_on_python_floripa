@@ -1,6 +1,6 @@
 # 1º Hands on Python Floripa
 
-Este repositório contém os códigos desenvolvidos durante o 1º Hands On da Python Floripa, realizado dia 22 de Fevereiro de 2025.
+Este repositório contém os códigos desenvolvidos durante o [1º Hands](https://www.meetup.com/floripa-python-meetup/events/306191610/?eventOrigin=group_upcoming_events) On da [Python Floripa](https://python.floripa.br/), realizado dia 22 de Fevereiro de 2025.
 
 [1º Hands On LLMs Locais- Rode IA no Seu Computador Sem Custos e com Privacidade.pdf](1HandsOnLLMsLocaisRodeIAnoSeuComputadorSemCustosecomPrivacidade.pdf).
 
